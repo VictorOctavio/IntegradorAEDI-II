@@ -1,0 +1,136 @@
+.lista{
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.911);
+    display: flex;
+    align-items: center;
+}
+
+.lista-container{
+    width: 100%; height: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.lista-container .card-list{
+    width: 100%; height: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.075);
+    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 4fr .5fr auto;
+}
+
+/* IMAGE CARD */
+.lista-container .card-list .photo-player{
+    display: flex; 
+    justify-content: center;
+    height: 500px;
+}
+
+.lista-container .card-list .photo-player img{
+    object-fit: contain;
+    width: 100%;
+    padding: 10px 0;
+}
+
+/* NAME POSITION PLAYER */
+.lista-container .card-list .information{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    border: 1px solid rgba(255, 255, 255, 0.075);
+}
+.lista-container .card-list .information h3{
+    font-weight: 300;
+    margin: 0;
+    font-size: 25px;
+    text-transform: capitalize;
+    color: rgb(184, 184, 184);
+}
+
+.lista-container .card-list .information p{
+    font-weight: 500;
+    color: crimson;
+    font-size: 20px;
+    margin: 0;
+    letter-spacing: 1px;
+}
+
+/* STATS PLAYERS */
+.lista-container .card-list .stats{padding: 5px;}
+
+.lista-container .card-list .stats > div{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.lista-container .card-list .stats > div label{
+    color: #ccc;
+    padding: 5px 0;
+    font-weight: 300;
+}
+
+.lista-container .card-list .stats > div div h6{
+    margin: 0;
+    color: white;
+}
+
+.lista-container .card-list .stats > div > div{
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 10px;
+}
+
+
+/* LISTADO PLAYER */
+.lista-container .list{
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.151);
+}
+
+.lista-container .list h3{
+    text-align: center;
+    font-weight: 800;
+    margin: 0;
+    padding-bottom: 5px;
+    color: rgb(134, 134, 134);
+    border-bottom: 1px solid rgb(58, 58, 58);
+}
+
+.lista-container .list .jugadores{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+    height: 710px;
+    overflow: auto;
+}
+
+.lista-container .list .jugadores .jugador{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 15px;
+    border: 1px solid rgb(31, 31, 31);
+    cursor: pointer;
+    margin-bottom: 7px;
+    transition: .5s;
+}
+
+.lista-container .list .jugadores .jugador:hover{
+    background-color: rgb(44, 44, 44);
+}
+
+
+.lista-container .list .jugadores .jugador p{margin: 0; color: rgb(190, 190, 190);
+    font-size: 18px; 
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.lista-container .list .jugadores .jugador b{
+    font-weight: 800; color: crimson; letter-spacing: 0; text-transform: uppercase;
+}
+

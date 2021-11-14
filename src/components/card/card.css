@@ -1,0 +1,38 @@
+.card{
+    width: 18rem;
+    margin-top: 20px;
+    border: 1px solid rgba(94, 94, 94, 0.37) !important;
+    opacity: .5;
+    transition: .5s;
+    margin: 0;
+}
+
+.card .card-header{
+    border-bottom: 1px solid rgba(94, 94, 94, 0.705);
+    padding: 15px 0;
+}
+
+.card  .card-header svg{
+    color: rgb(255, 145, 71);
+    font-size: 25px;
+    position: absolute;
+    right: 8rem;
+    top: 1.2rem;
+}
+
+.card .card-body{
+    min-height: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card .card-body h3{
+    font-weight: 800; color: white;
+}
+.card:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+
+.card:hover .card-header svg{color: white;}

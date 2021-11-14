@@ -1,0 +1,282 @@
+﻿[
+    {
+        "nombre": "Gustavo Alvarez",
+        "posicion": "Base",
+        "universidad": "Universidad de Madrid",
+        "edad": 18,
+        "altura": 1.95,
+        "valor": 500000,
+        "image": "https://www.despachoceltics.com/wp-content/uploads/Captura-de-pantalla-2018-06-15-a-las-15.52.58.png",
+        "habilidades": {
+            "tiro": {
+                "intentos": 90,
+                "aciertos": 55
+            },
+            "pase": {
+                "intentos": 140,
+                "aciertos": 122
+            },
+            "defensa": {
+                "intentos": 70,
+                "aciertos": 30
+            },
+            "dribling": {
+                "intentos": 180,
+                "aciertos": 102
+            }
+        }
+    },
+    
+    {
+        "nombre": "Richard Anderson",
+        "posicion": "Alero",
+        "universidad": "Stanford University",
+        "edad": 19,
+        "altura": 2.01,
+        "valor": 1200000,
+        "image": "https://miro.medium.com/max/519/1*-vqDUId4_hjJDFhYxg0LDA.jpeg",
+        "habilidades": {
+            "tiro": {
+                "intentos": 120,
+                "aciertos": 110
+            },
+            "pase": {
+                "intentos": 190,
+                "aciertos": 179
+            },
+            "defensa": {
+                "intentos": 90,
+                "aciertos": 69
+            },
+            "dribling": {
+                "intentos": 208,
+                "aciertos": 183
+            }
+        }
+    },
+
+    {
+        "nombre": "Jacob Davis",
+        "posicion": "Alero",
+        "universidad": "Ohio University",
+        "edad": 19,
+        "altura": 2.05,
+        "valor": 2000000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcJn51s5AEIXOQoZTT_JYHWHqiDDVyUD6FA&usqp=CAU",
+        "habilidades": {
+            "tiro": {
+                "intentos": 180,
+                "aciertos": 120
+            },
+            "pase": {
+                "intentos": 210,
+                "aciertos": 179
+            },
+            "defensa": {
+                "intentos": 80,
+                "aciertos": 69
+            },
+            "dribling": {
+                "intentos": 247,
+                "aciertos": 100
+            }
+    }
+},
+
+{
+    "nombre": "DAVID Brown",
+    "posicion": "Base",
+    "universidad": "Columbia University",
+    "edad": 18,
+    "altura": 2.10,
+    "valor": 500000,
+    "image": "https://media.gettyimages.com/photos/march-16-2014-georgia-state-panthers-guard-rj-hunter-passes-during-picture-id577822474?s=612x612",
+    "habilidades": {
+        "tiro": {
+            "intentos": 150,
+            "aciertos": 110
+        },
+        "pase": {
+            "intentos": 200,
+            "aciertos": 179
+        },
+        "defensa": {
+            "intentos": 70,
+            "aciertos": 40
+        },
+        "dribling": {
+            "intentos": 237,
+            "aciertos": 150
+        }
+}
+},  
+
+{
+    "nombre": "JOSE Williams",
+    "posicion": "Escolta ",
+    "universidad": "Florida University",
+    "edad": 21,
+    "altura": 2.15,
+    "valor": 400000,
+    "image": "https://w7.pngwing.com/pngs/927/310/png-transparent-jimmer-fredette-basketball-player-pcd-pharma-franchise-serbia-molecules-private-limited-brigham-young-university-basketball-jersey-arm-material.png",
+    "habilidades": {
+        "tiro": {
+            "intentos": 150,
+            "aciertos": 110
+        },
+        "pase": {
+            "intentos": 220,
+            "aciertos": 129
+        },
+        "defensa": {
+            "intentos": 70,
+            "aciertos": 60
+        },
+        "dribling": {
+            "intentos": 247,
+            "aciertos": 100
+        }
+}
+},
+
+{
+    "nombre": "DANIEL Smith",
+    "posicion": "Pívot",
+    "universidad": "San Diego University",
+    "edad": 20,
+    "altura": 2.05,
+    "valor": 210000,
+    "image": "https://images.daznservices.com/di/library/NBA_Global_CMS_image_storage/4a/79/anderson-varejao_3ueiulegyaz419i9t5fwvdswf.jpg?t=868785210&w=2000&h=1126",
+    "habilidades": {
+        "tiro": {
+            "intentos": 150,
+            "aciertos": 110
+        },
+        "pase": {
+            "intentos": 220,
+            "aciertos": 179
+        },
+        "defensa": {
+            "intentos": 70,
+            "aciertos": 69
+        },
+        "dribling": {
+            "intentos": 247,
+            "aciertos": 150
+        }
+}
+},
+
+{
+    "nombre": "MANUEL Moore",
+    "posicion": "Base",
+    "universidad": "California University",
+    "edad": 22,
+    "altura": 2.05,
+    "valor": 700000,
+    "image": "https://www.blogdebasket.com/files/styles/eht/public/ja-morant-murray-st.jpg?itok=5rhygX75",
+    "habilidades": {
+        "tiro": {
+            "intentos": 150,
+            "aciertos": 110
+        },
+        "pase": {
+            "intentos": 190,
+            "aciertos": 179
+        },
+        "defensa": {
+            "intentos": 70,
+            "aciertos": 69
+        },
+        "dribling": {
+            "intentos": 247,
+            "aciertos": 150
+        }
+}
+},
+
+{
+    "nombre": "Kevin Taylor",
+    "posicion": "Pivot",
+    "universidad": "New York University",
+    "edad": 20,
+    "altura": 2.02,
+    "valor": 100000,
+    "image": "https://www.blogdebasket.com/files/styles/eht/public/james-wiseman-proyeccion-draft-2020.png?itok=COYknOcH",
+    "habilidades": {
+        "tiro": {
+            "intentos": 150,
+            "aciertos": 110
+        },
+        "pase": {
+            "intentos": 220,
+            "aciertos": 179
+        },
+        "defensa": {
+            "intentos": 70,
+            "aciertos": 69
+        },
+        "dribling": {
+            "intentos": 247,
+            "aciertos": 150
+        }
+}
+},
+
+{
+    "nombre": "ALEXANDER Thomas",
+    "posicion": "Alero",
+    "universidad": "Indianapolis University",
+    "edad": 18,
+    "altura": 2.05,
+    "valor": 900000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul1c5kUMll4N9v8us-kr4R7QA6Cp55YODFw&usqp=CAU",
+    "habilidades": {
+        "tiro": {
+            "intentos": 150,
+            "aciertos": 110
+        },
+        "pase": {
+            "intentos": 220,
+            "aciertos": 179
+        },
+        "defensa": {
+            "intentos": 120,
+            "aciertos": 69
+        },
+        "dribling": {
+            "intentos": 247,
+            "aciertos": 150
+        }
+}
+},
+
+{
+    "nombre": "WILLIAM Jackson",
+    "posicion": "Base",
+    "universidad": "California University",
+    "edad": 20,
+    "altura": 2.05,
+    "valor": 200000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGI61UaD4_RR_Xuu-4N_QyFy-PNzI_ByZmVA&usqp=CAU",
+    "habilidades": {
+        "tiro": {
+            "intentos": 150,
+            "aciertos": 110
+        },
+        "pase": {
+            "intentos": 220,
+            "aciertos": 179
+        },
+        "defensa": {
+            "intentos": 70,
+            "aciertos": 69
+        },
+        "dribling": {
+            "intentos": 270,
+            "aciertos": 150
+        }
+}
+},
+
+]   

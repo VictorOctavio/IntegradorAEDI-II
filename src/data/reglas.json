@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Regla #1",
+        "texto": "Cada equipo puede fichar unicamente un máximo de 3 jugadores del DRAFT, un jugador por cada vuelta.",
+        "image": "https://images8.alphacoders.com/108/thumb-1920-1084924.png"
+    },{
+        "title": "Regla #2",
+        "texto": "El orden de fichajes, es de atras hacia delante. Los ultimos de la tabla de posiciones, empiezan primero.",
+        "image": "https://cdn.wallpapersafari.com/96/53/OBpaeG.jpg"
+    },{
+        "title": "Regla #3",
+        "texto": "Existen 10 jugadores para fichar, al menos uno de ellos quedara libre luego del draft.",
+        "image": "https://www.xboxone-hq.com/images/games/screenshots/376-nba-2k16-screenshot-1443655913_1443655913.jpg"
+    },{
+        "title": "Regla #4",
+        "texto": "Cada equipo tiene un presupuesto a respetar para el fichaje de jugadores.",
+        "image": "https://p4.wallpaperbetter.com/wallpaper/46/649/276/kobe-bryant-nba-2k20-los-angeles-lakers-hd-wallpaper-preview.jpg"
+    },{
+        "title": "Regla #5",
+        "texto": "El equipo se podrá saltar su turno en caso de que ya no quiera comprar mas jugadores.",
+        "image": "https://pbs.twimg.com/media/EWCbNiKUwAI4vZD.jpg"
+    }
+]
